@@ -1,0 +1,344 @@
+projection1
+%	Ch	Amp	Freq	Gain
+	1	600uA	450kHz	x10
+	2	Null	Null	x10
+	3	Null	Null	x10
+	4	Null	Null	x10
+	5	Null	Null	x10
+	6	Null	Null	x10
+	7	Null	Null	x10
+	8	-600uA	50kHz	x10
+	9	600uA	50kHz	x10
+	10	Null	Null	x10
+	11	Null	Null	x10
+	12	Null	Null	x10
+	13	Null	Null	x10
+	14	Null	Null	x10
+	15	Null	Null	x10
+	16	-600uA	450kHz	x10
+end
+projection2				
+%	Ch	Amp	Freq	Gain
+	1	-600uA	450kHz	x10
+	2	600uA	450kHz	x10
+	3	Null	Null	x10
+	4	Null	Null	x10
+	5	Null	Null	x10
+	6	Null	Null	x10
+	7	Null	Null	x10
+	8	Null	Null	x10
+	9	-600uA	50kHz	x10
+	10	600uA	50kHz	x10
+	11	Null	Null	x10
+	12	Null	Null	x10
+	13	Null	Null	x10
+	14	Null	Null	x10
+	15	Null	Null	x10
+	16	Null	Null	x10
+end
+projection3
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x10
+	2	-600uA	450kHz	x10
+	3	600uA	450kHz	x10
+	4	Null	Null	x10
+	5	Null	Null	x10
+	6	Null	Null	x10
+	7	Null	Null	x10
+	8	Null	Null	x10
+	9	Null	Null	x10
+	10	-600uA	50kHz	x10
+	11	600uA	50kHz	x10
+	12	Null	Null	x10
+	13	Null	Null	x10
+	14	Null	Null	x10
+	15	Null	Null	x10
+	16	Null    Null	x10
+end
+projection4
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x10
+	2	Null	Null	x10
+	3	-600uA	450kHz	x10
+	4	600uA	450kHz	x10
+	5	Null	Null	x10
+	6	Null	Null	x10
+	7	Null	Null	x10
+	8	Null	Null	x10
+	9	Null	Null	x10
+	10	Null	Null	x10
+	11	-600uA	50kHz	x10
+	12	600uA	50kHz	x10
+	13	Null	Null	x10
+	14	Null	Null	x10
+	15	Null	Null	x10
+	16	Null	Null	x10
+end
+projection5
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x10
+	2	Null	Null	x10
+	3	Null	Null	x10
+	4	-600uA	450kHz	x10
+	5	600uA	450kHz	x10
+	6	Null	Null	x10
+	7	Null	Null	x10
+	8	Null	Null	x10
+	9	Null	Null	x10
+	10	Null	Null	x10
+	11	Null	Null	x10
+	12	-600uA	50kHz	x10
+	13	600uA	50kHz	x10
+	14	Null	Null	x10
+	15	Null	Null	x10
+	16	Null	Null	x10
+end
+projection6
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x10
+	2	Null	Null	x10
+	3	Null	Null	x10
+	4	Null	Null	x10
+	5	-600uA	450kHz	x10
+	6	600uA	450kHz	x10
+	7	Null	Null	x10
+	8	Null	Null	x10
+	9	Null	Null	x10
+	10	Null	Null	x10
+	11	Null	Null	x10
+	12	Null	Null	x10
+	13	-600uA	50kHz	x10
+	14	600uA	50kHz	x10
+	15	Null	Null	x10
+	16	Null	Null	x10
+end
+projection7
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x10
+	2	Null	Null	x10
+	3	Null	Null	x10
+	4	Null	Null	x10
+	5	Null	Null	x10
+	6	-600uA	450kHz	x10
+	7	600uA	450kHz	x10
+	8	Null	Null	x10
+	9	Null	Null	x10
+	10	Null	Null	x10
+	11	Null	Null	x10
+	12	Null	Null	x10
+	13	Null	Null	x10
+	14	-600uA	50kHz	x10
+	15	600uA	50kHz	x10
+	16	Null	Null	x10
+end
+projection8
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x10
+	2	Null	Null	x10
+	3	Null	Null	x10
+	4	Null	Null	x10
+	5	Null	Null	x10
+	6	Null	Null	x10
+	7	-600uA	450kHz	x10
+	8	600uA	450kHz	x10
+	9	Null	Null	x10
+	10	Null	Null	x10
+	11	Null	Null	x10
+	12	Null	Null	x10
+	13	Null	Null	x10
+	14	Null	Null	x10
+	15	-600uA	50kHz	x10
+	16	600uA	50kHz	x10
+end
+projection9
+%	Ch	Amp	Freq	Gain
+	1	600uA	50kHz	x10
+	2	Null	Null	x10
+	3	Null	Null	x10
+	4	Null	Null	x10
+	5	Null	Null	x10
+	6	Null	Null	x10
+	7	Null	Null	x10
+	8	-600uA	450kHz	x10
+	9	600uA	450kHz	x10
+	10	Null	Null	x10
+	11	Null	Null	x10
+	12	Null	Null	x10
+	13	Null	Null	x10
+	14	Null	Null	x10
+	15	Null	Null	x10
+	16	-600uA	50kHz	x10
+end
+projection10
+%	Ch	Amp	Freq	Gain
+	1	-600uA	50kHz	x10
+	2	600uAl	50kHz	x10
+	3	Null	Null	x10
+	4	Null	Null	x10
+	5	Null	Null	x10
+	6	Null	Null	x10
+	7	Null	Null	x10
+	8	Null	Null	x10
+	9	-600uA	450kHz	x10
+	10	600uA	450kHz	x10
+	11	Null	Null	x10
+	12	Null	Null	x10
+	13	Null	Null	x10
+	14	Null	Null	x10
+	15	Null	Null	x10
+	16	Null	Null	x10
+end
+projection11
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x10
+	2	-600uA	50kHz	x10
+	3	600uA	50kHz	x10
+	4	Null	Null	x10
+	5	Null	Null	x10
+	6	Null	Null	x10
+	7	Null	Null	x10
+	8	Null	Null	x10
+	9	Null	Null	x10
+	10	-600uA	450kHz	x10
+	11	600uA	450kHz	x10
+	12	Null	Null	x10
+	13	Null	Null	x10
+	14	Null	Null	x10
+	15	Null	Null	x10
+	16	Null	Null	x10
+end
+projection12
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x10
+	2	Null	Null	x10
+	3	-600uA	50kHz	x10
+	4	600uA	50kHz	x10
+	5	Null	Null	x10
+	6	Null	Null	x10
+	7	Null	Null	x10
+	8	Null	Null	x10
+	9	Null	Null	x10
+	10	Null	Null	x10
+	11	-600uA	450kHz	x10
+	12	600uA	450kHz	x10
+	13	Null	Null	x10
+	14	Null	Null	x10
+	15	Null	Null	x10
+	16	Null	Null	x10
+end
+projection13
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x10
+	2	Null	Null	x10
+	3	Null	Null	x10
+	4	-600uA	50kHz	x10
+	5	600uA	50kHz	x10
+	6	Null	Null	x10
+	7	Null	Null	x10
+	8	Null	Null	x10
+	9	Null	Null	x10
+	10	Null	Null	x10
+	11	Null	Null	x10
+	12	-600uA	450kHz	x10
+	13	600uA	450kHz	x10
+	14	Null	Null	x10
+	15	Null	Null	x10
+	16	Null	Null	x10
+end
+projection14
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x10
+	2	Null	Null	x10
+	3	Null	Null	x10
+	4	Null	Null	x10
+	5	-600uA	50kHz	x10
+	6	600uA	50kHz	x10
+	7	Null	Null	x10
+	8	Null	Null	x10
+	9	Null	Null	x10
+	10	Null	Null	x10
+	11	Null	Null	x10
+	12	Null	Null	x10
+	13	-600uA	450kHz	x10
+	14	600uA	450kHz	x10
+	15	Null	Null	x10
+	16	Null	Null	x10
+end
+projection15
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x10
+	2	Null	Null	x10
+	3	Null	Null	x10
+	4	Null	Null	x10
+	5	Null	Null	x10
+	6	-600uA	50kHz	x10
+	7	600uA	50kHz	x10
+	8	Null	Null	x10
+	9	Null	Null	x10
+	10	Null	Null	x10
+	11	Null	Null	x10
+	12	Null	Null	x10
+	13	Null	Null	x10
+	14	-600uA	450kHz	x10
+	15	600uA	450kHz	x10
+	16	Null	Null	x10
+end
+projection16
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x10
+	2	Null	Null	x10
+	3	Null	Null	x10
+	4	Null	Null	x10
+	5	Null	Null	x10
+	6	Null	Null	x10
+	7	-600uA	50kHz	x10
+	8	600uA	50kHz	x10
+	9	Null	Null	x10
+	10	Null	Null	x10
+	11	Null	Null	x10
+	12	Null	Null	x10
+	13	Null	Null	x10
+	14	Null	Null	x10
+	15	-600uA	450kHz	x10
+	16	600uA	450kHz	x10
+end	
+
+projection17
+%	Ch	Amp	Freq	Gain
+	1	-600uA	450kHz	x10
+	2	Null	Null	x10
+	3	Null	Null	x10
+	4	Null	Null	x10
+	5	Null	Null	x10
+	6	Null	Null	x10
+	7	Null	Null	x10
+	8	-600uA	50kHz	x10
+	9	600uA	50kHz	x10
+	10	Null	Null	x10
+	11	Null	Null	x10
+	12	Null	Null	x10
+	13	Null	Null	x10
+	14	Null	Null	x10
+	15	Null	Null	x10
+	16	600uA	450kHz	x10
+end
+
+projection18
+%	Ch	Amp	Freq	Gain
+	1	600uA	450kHz	x10
+	2	Null	450kHz	x10
+	3	Null	Null	x10
+	4	Null	Null	x10
+	5	Null	Null	x10
+	6	Null	Null	x10
+	7	Null	Null	x10
+	8	NullA	Null	x10
+	9	-600uA	50kHz	x10
+	10	600uA	50kHz	x10
+	11	Null	Null	x10
+	12	Null	Null	x10
+	13	Null	Null	x10
+	14	Null	Null	x10
+	15	Null	Null	x10
+	16	Null	Null	x10
+end

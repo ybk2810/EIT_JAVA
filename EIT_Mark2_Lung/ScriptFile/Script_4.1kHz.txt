@@ -1,0 +1,43 @@
+%Date	10/22/2010
+%Comment :
+#include "projection\projection_4.1kHz.txt"
+
+start
+	setting
+		Channel		16
+		Average		32
+		Delay		5
+		Freq		1
+		TimeInfoHigh	0
+		TimeInfoMid	70
+		TimeInfoLow	0
+		InjDelayHigh	0
+		InjDelayLow	60
+	stop
+	calibration
+		DCOffset	ON
+		OutputImpedance	ON
+		Amplitude	OFF
+		Voltmeter	OFF
+		Protocol	2DNeighboring_saline
+	stop
+	scan
+		projection1
+		projection1
+		projection1
+		projection1
+		projection1
+		projection1
+		projection1
+		projection1
+		projection1
+		projection1
+		projection1
+		projection1
+		projection1
+		projection1
+		projection1
+		projection1
+	stop
+end
+		

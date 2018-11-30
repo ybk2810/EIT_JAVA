@@ -1,0 +1,3 @@
+%FineR	CoarseR	FineC	CoarseC
+122	160	126	58
+90	19	15	118

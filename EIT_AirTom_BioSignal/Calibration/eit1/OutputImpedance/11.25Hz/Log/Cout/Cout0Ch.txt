@@ -1,0 +1,53 @@
+	None0	
+CoarseR0	-8.43641e-010	
+CoarseR10	-8.19689e-010	
+CoarseR20	-7.99594e-010	
+CoarseR30	-7.84263e-010	
+CoarseR40	-7.6211e-010	
+CoarseR50	-7.44414e-010	
+CoarseR60	-7.26e-010	
+CoarseR70	-7.12364e-010	
+CoarseR80	-6.92346e-010	
+CoarseR90	-6.71503e-010	
+CoarseR100	-6.61643e-010	
+CoarseR110	-6.51122e-010	
+CoarseR120	-6.28323e-010	
+CoarseR130	-6.22696e-010	
+CoarseR140	-6.04706e-010	
+CoarseR150	-5.86293e-010	
+CoarseR160	-5.79196e-010	
+CoarseR170	-5.65757e-010	
+CoarseR180	-5.57957e-010	
+CoarseR190	-5.43797e-010	
+CoarseR200	-5.29207e-010	
+CoarseR210	-5.20451e-010	
+CoarseR220	-5.05165e-010	
+CoarseR230	-4.95878e-010	
+CoarseR240	-4.86335e-010	
+CoarseR250	-4.70095e-010	
+MinCout:	-4.70095e-010	CoarseR:	250	None:	0
+
+	None0	
+CoarseR100	-6.5582e-010	
+CoarseR101	-6.62278e-010	
+CoarseR102	-6.57259e-010	
+CoarseR103	-6.57894e-010	
+CoarseR104	-6.52848e-010	
+CoarseR105	-6.53508e-010	
+CoarseR106	-6.5414e-010	
+CoarseR107	-6.49097e-010	
+CoarseR108	-6.49728e-010	
+CoarseR109	-6.44658e-010	
+CoarseR110	-6.45288e-010	
+CoarseR111	-6.4593e-010	
+CoarseR112	-6.46692e-010	
+CoarseR113	-6.4149e-010	
+CoarseR114	-6.36281e-010	
+CoarseR115	-6.36907e-010	
+CoarseR116	-6.37647e-010	
+CoarseR117	-6.38158e-010	
+CoarseR118	-6.32933e-010	
+CoarseR119	-6.33557e-010	
+CoarseR120	-6.28323e-010	
+MinCout:	-6.28323e-010	CoarseR:	120	None:	0
+

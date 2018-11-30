@@ -1,0 +1,628 @@
+projection1
+%	Ch	Amp	Freq	Gain
+	1	1000uA	450kHz	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	-1000uA	450kHz	x20
+end
+projection2				
+%	Ch	Amp	Freq	Gain
+	1	-1000uA	450kHz	x20
+	2	1000uA	450kHz	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end
+projection3
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	-1000uA	450kHz	x20
+	3	1000uA	450kHz	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null    Null	x20
+end
+projection4
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	-1000uA	450kHz	x20
+	4	1000uA	450kHz	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end
+projection5
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	-1000uA	450kHz	x20
+	5	1000uA	450kHz	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end
+projection6
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	-1000uA	450kHz	x20
+	6	1000uA	450kHz	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end
+projection7
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	-1000uA	450kHz	x20
+	7	1000uA	450kHz	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end
+projection8
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	-1000uA	450kHz	x20
+	8	1000uA	450kHz	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end
+projection9
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	-1000uA	450kHz	x20
+	9	1000uA	450kHz	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end
+projection10
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	-1000uA	450kHz	x20
+	10	1000uA	450kHz	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end
+projection11
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	-1000uA	450kHz	x20
+	11	1000uA	450kHz	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end
+projection12
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	-1000uA	450kHz	x20
+	12	1000uA	450kHz	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end
+projection13
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	-1000uA	450kHz	x20
+	13	1000uA	450kHz	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end
+projection14
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	-1000uA	450kHz	x20
+	14	1000uA	450kHz	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end
+projection15
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	-1000uA	450kHz	x20
+	15	1000uA	450kHz	x20
+	16	Null	Null	x20
+end
+projection16
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	-1000uA	450kHz	x20
+	16	1000uA	450kHz	x20
+end
+projection17				
+%	Ch	Amp	Freq	Gain
+	1	1000uA	450kHz	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	-1000uA	450kHz	x20
+end				
+projection18				
+%	Ch	Amp	Freq	Gain
+	1	-1000uA	450kHz	x20
+	2	1000uA	450kHz	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end				
+projection19				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	-1000uA	450kHz	x20
+	3	1000uA	450kHz	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null    Null	x20	
+end				
+projection20				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	-1000uA	450kHz	x20
+	4	1000uA	450kHz	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end				
+projection21				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	-1000uA	450kHz	x20
+	5	1000uA	450kHz	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end				
+projection22				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	-1000uA	450kHz	x20
+	6	1000uA	450kHz	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end				
+projection23				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	-1000uA	450kHz	x20
+	7	1000uA	450kHz	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end				
+projection24				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	-1000uA	450kHz	x20
+	8	1000uA	450kHz	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end				
+projection25				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	-1000uA	450kHz	x20
+	9	1000uA	450kHz	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end				
+projection26				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	-1000uA	450kHz	x20
+	10	1000uA	450kHz	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end				
+projection27				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	-1000uA	450kHz	x20
+	11	1000uA	450kHz	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end				
+projection28				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	-1000uA	450kHz	x20
+	12	1000uA	450kHz	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end				
+projection29				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	-1000uA	450kHz	x20
+	13	1000uA	450kHz	x20
+	14	Null	Null	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end				
+projection30				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	-1000uA	450kHz	x20
+	14	1000uA	450kHz	x20
+	15	Null	Null	x20
+	16	Null	Null	x20
+end				
+projection31				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	-1000uA	450kHz	x20
+	15	1000uA	450kHz	x20
+	16	Null	Null	x20
+end				
+projection32				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x20
+	2	Null	Null	x20
+	3	Null	Null	x20
+	4	Null	Null	x20
+	5	Null	Null	x20
+	6	Null	Null	x20
+	7	Null	Null	x20
+	8	Null	Null	x20
+	9	Null	Null	x20
+	10	Null	Null	x20
+	11	Null	Null	x20
+	12	Null	Null	x20
+	13	Null	Null	x20
+	14	Null	Null	x20
+	15	-1000uA	450kHz	x20
+	16	1000uA	450kHz	x20
+end	
+projection33				
+%	Ch	Amp	Freq	Gain
+	1	0mA 	450kHz	x20
+	2	111000uA 	450kHz	x20
+	3	212mA 	450kHz	x20
+	4	277mA 	450kHz	x20
+	5	1000uA 	450kHz	x20
+	6	277mA 	450kHz	x20
+	7	212mA 	450kHz	x20
+	8	111000uA 	450kHz	x20
+	9	0mA 	450kHz	x20
+	10	-111000uA 	450kHz	x20
+	11	-212mA 	450kHz	x20
+	12	-277mA 	450kHz	x20
+	13	-1000uA 	450kHz	x20
+	14	-277mA 	450kHz	x20
+	15	-212mA 	450kHz	x20
+	16	-111000uA 	450kHz	x20
+end					
+	

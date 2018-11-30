@@ -1,0 +1,29 @@
+	None0	
+CoarseR0	1e+009	
+CoarseR200	1e+009	
+MaxZout:	1e+009	CoarseR:	0	None:	0
+
+	None0	
+CoarseR0	1000	
+CoarseR1	-1.#IND	
+CoarseR2	1000	
+CoarseR3	1e+009	
+CoarseR4	1e+009	
+CoarseR5	1e+009	
+CoarseR6	1e+009	
+CoarseR7	-1.#IND	
+CoarseR8	1414.21	
+CoarseR9	1000	
+CoarseR10	1414.21	
+CoarseR11	1000	
+CoarseR12	1000	
+CoarseR13	1000	
+CoarseR14	2000	
+CoarseR15	1e+009	
+CoarseR16	1e+009	
+CoarseR17	1e+009	
+CoarseR18	1414.21	
+CoarseR19	1e+009	
+CoarseR20	1414.21	
+MaxZout:	1e+009	CoarseR:	3	None:	0
+

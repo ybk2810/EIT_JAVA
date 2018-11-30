@@ -1,0 +1,43 @@
+%Date	10/22/2010
+%Comment :
+#include "projection\projection_7.50kHz.txt"
+
+start
+	setting
+		Channel		16
+		Average		64
+		Delay		5
+		Freq		1
+		TimeInfoHigh	0
+		TimeInfoMid	14
+		TimeInfoLow	0
+		InjDelayHigh	0
+		InjDelayLow	60
+	stop
+	calibration
+		DCOffset	ON
+		OutputImpedance	ON
+		Amplitude	ON
+		Voltmeter	OFF
+		Protocol	2DNeighboring_saline
+	stop
+	scan
+		projection1
+		projection2
+		projection3
+		projection4
+		projection5
+		projection6
+		projection7
+		projection8
+		projection9
+		projection10
+		projection11
+		projection12
+		projection13
+		projection14
+		projection15
+		projection16
+	stop
+end
+		

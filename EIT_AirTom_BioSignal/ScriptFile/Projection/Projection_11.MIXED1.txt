@@ -1,0 +1,344 @@
+projection1
+%	Ch	Amp	Freq	Gain
+	1	600uA	MIXED1  x30
+	2	Null	Null	x30
+	3	Null	Null	x30
+	4	Null	Null	x30
+	5	Null	Null	x30
+	6	Null	Null	x30
+	7	Null	Null	x30
+	8	Null	Null	x30
+	9	Null	Null	x30
+	10	Null	Null	x30
+	11	Null	Null	x30
+	12	Null	Null	x30
+	13	Null	Null	x30
+	14	Null	Null	x30
+	15	Null	Null	x30
+	16	-600uA	MIXED1  x30
+end
+projection2				
+%	Ch	Amp	Freq	Gain
+	1	-600uA	MIXED1  x30
+	2	600uA	MIXED1  x30
+	3	Null	Null	x30
+	4	Null	Null	x30
+	5	Null	Null	x30
+	6	Null	Null	x30
+	7	Null	Null	x30
+	8	Null	Null	x30
+	9	Null	Null	x30
+	10	Null	Null	x30
+	11	Null	Null	x30
+	12	Null	Null	x30
+	13	Null	Null	x30
+	14	Null	Null	x30
+	15	Null	Null	x30
+	16	Null	Null	x30
+end
+projection3
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x30
+	2	-600uA	MIXED1  x30
+	3	600uA	MIXED1  x30
+	4	Null	Null	x30
+	5	Null	Null	x30
+	6	Null	Null	x30
+	7	Null	Null	x30
+	8	Null	Null	x30
+	9	Null	Null	x30
+	10	Null	Null	x30
+	11	Null	Null	x30
+	12	Null	Null	x30
+	13	Null	Null	x30
+	14	Null	Null	x30
+	15	Null	Null	x30
+	16	Null    Null	x30
+end
+projection4
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x30
+	2	Null	Null	x30
+	3	-600uA	MIXED1  x30
+	4	600uA	MIXED1  x30
+	5	Null	Null	x30
+	6	Null	Null	x30
+	7	Null	Null	x30
+	8	Null	Null	x30
+	9	Null	Null	x30
+	10	Null	Null	x30
+	11	Null	Null	x30
+	12	Null	Null	x30
+	13	Null	Null	x30
+	14	Null	Null	x30
+	15	Null	Null	x30
+	16	Null	Null	x30
+end
+projection5
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x30
+	2	Null	Null	x30
+	3	Null	Null	x30
+	4	-600uA	MIXED1  x30
+	5	600uA	MIXED1  x30
+	6	Null	Null	x30
+	7	Null	Null	x30
+	8	Null	Null	x30
+	9	Null	Null	x30
+	10	Null	Null	x30
+	11	Null	Null	x30
+	12	Null	Null	x30
+	13	Null	Null	x30
+	14	Null	Null	x30
+	15	Null	Null	x30
+	16	Null	Null	x30
+end
+projection6
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x30
+	2	Null	Null	x30
+	3	Null	Null	x30
+	4	Null	Null	x30
+	5	-600uA	MIXED1  x30
+	6	600uA	MIXED1  x30
+	7	Null	Null	x30
+	8	Null	Null	x30
+	9	Null	Null	x30
+	10	Null	Null	x30
+	11	Null	Null	x30
+	12	Null	Null	x30
+	13	Null	Null	x30
+	14	Null	Null	x30
+	15	Null	Null	x30
+	16	Null	Null	x30
+end
+projection7
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x30
+	2	Null	Null	x30
+	3	Null	Null	x30
+	4	Null	Null	x30
+	5	Null	Null	x30
+	6	-600uA	MIXED1  x30
+	7	600uA	MIXED1  x30
+	8	Null	Null	x30
+	9	Null	Null	x30
+	10	Null	Null	x30
+	11	Null	Null	x30
+	12	Null	Null	x30
+	13	Null	Null	x30
+	14	Null	Null	x30
+	15	Null	Null	x30
+	16	Null	Null	x30
+end
+projection8
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x30
+	2	Null	Null	x30
+	3	Null	Null	x30
+	4	Null	Null	x30
+	5	Null	Null	x30
+	6	Null	Null	x30
+	7	-600uA	MIXED1  x30
+	8	600uA	MIXED1  x30
+	9	Null	Null	x30
+	10	Null	Null	x30
+	11	Null	Null	x30
+	12	Null	Null	x30
+	13	Null	Null	x30
+	14	Null	Null	x30
+	15	Null	Null	x30
+	16	Null	Null	x30
+end
+projection9
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x30
+	2	Null	Null	x30
+	3	Null	Null	x30
+	4	Null	Null	x30
+	5	Null	Null	x30
+	6	Null	Null	x30
+	7	Null	Null	x30
+	8	-600uA	MIXED1  x30
+	9	600uA	MIXED1  x30
+	10	Null	Null	x30
+	11	Null	Null	x30
+	12	Null	Null	x30
+	13	Null	Null	x30
+	14	Null	Null	x30
+	15	Null	Null	x30
+	16	Null	Null	x30
+end
+projection10
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x30
+	2	Null	Null	x30
+	3	Null	Null	x30
+	4	Null	Null	x30
+	5	Null	Null	x30
+	6	Null	Null	x30
+	7	Null	Null	x30
+	8	Null	Null	x30
+	9	-600uA	MIXED1  x30
+	10	600uA	MIXED1  x30
+	11	Null	Null	x30
+	12	Null	Null	x30
+	13	Null	Null	x30
+	14	Null	Null	x30
+	15	Null	Null	x30
+	16	Null	Null	x30
+end
+projection11
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x30
+	2	Null	Null	x30
+	3	Null	Null	x30
+	4	Null	Null	x30
+	5	Null	Null	x30
+	6	Null	Null	x30
+	7	Null	Null	x30
+	8	Null	Null	x30
+	9	Null	Null	x30
+	10	-600uA	MIXED1  x30
+	11	600uA	MIXED1  x30
+	12	Null	Null	x30
+	13	Null	Null	x30
+	14	Null	Null	x30
+	15	Null	Null	x30
+	16	Null	Null	x30
+end
+projection12
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x30
+	2	Null	Null	x30
+	3	Null	Null	x30
+	4	Null	Null	x30
+	5	Null	Null	x30
+	6	Null	Null	x30
+	7	Null	Null	x30
+	8	Null	Null	x30
+	9	Null	Null	x30
+	10	Null	Null	x30
+	11	-600uA	MIXED1  x30
+	12	600uA	MIXED1  x30
+	13	Null	Null	x30
+	14	Null	Null	x30
+	15	Null	Null	x30
+	16	Null	Null	x30
+end
+projection13
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x30
+	2	Null	Null	x30
+	3	Null	Null	x30
+	4	Null	Null	x30
+	5	Null	Null	x30
+	6	Null	Null	x30
+	7	Null	Null	x30
+	8	Null	Null	x30
+	9	Null	Null	x30
+	10	Null	Null	x30
+	11	Null	Null	x30
+	12	-600uA	MIXED1  x30
+	13	600uA	MIXED1  x30
+	14	Null	Null	x30
+	15	Null	Null	x30
+	16	Null	Null	x30
+end
+projection14
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x30
+	2	Null	Null	x30
+	3	Null	Null	x30
+	4	Null	Null	x30
+	5	Null	Null	x30
+	6	Null	Null	x30
+	7	Null	Null	x30
+	8	Null	Null	x30
+	9	Null	Null	x30
+	10	Null	Null	x30
+	11	Null	Null	x30
+	12	Null	Null	x30
+	13	-600uA	MIXED1  x30
+	14	600uA	MIXED1  x30
+	15	Null	Null	x30
+	16	Null	Null	x30
+end
+projection15
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x30
+	2	Null	Null	x30
+	3	Null	Null	x30
+	4	Null	Null	x30
+	5	Null	Null	x30
+	6	Null	Null	x30
+	7	Null	Null	x30
+	8	Null	Null	x30
+	9	Null	Null	x30
+	10	Null	Null	x30
+	11	Null	Null	x30
+	12	Null	Null	x30
+	13	Null	Null	x30
+	14	-600uA	MIXED1  x30
+	15	600uA	MIXED1  x30
+	16	Null	Null	x30
+end
+projection16
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x30
+	2	Null	Null	x30
+	3	Null	Null	x30
+	4	Null	Null	x30
+	5	Null	Null	x30
+	6	Null	Null	x30
+	7	Null	Null	x30
+	8	Null	Null	x30
+	9	Null	Null	x30
+	10	Null	Null	x30
+	11	Null	Null	x30
+	12	Null	Null	x30
+	13	Null	Null	x30
+	14	Null	Null	x30
+	15	-600uA	MIXED1  x30
+	16	600uA	MIXED1  x30
+end	
+
+projection17
+%	Ch	Amp	Freq	Gain
+	1	-600uA	MIXED1  x30
+	2	Null	Null	x30
+	3	Null	Null	x30
+	4	600uA	MIXED1  x30
+	5	-600uA	MIXED1  x30
+	6	Null	Null	x30
+	7	Null	Null	x30
+	8	Null	Null	x30
+	9	Null	Null	x30
+	10	Null	Null	x30
+	11	Null	Null	x30
+	12	600uA	MIXED1  x30
+	13	-600uA	MIXED1  x30
+	14	Null	Null	x30
+	15	Null	Null	x30
+	16	600uA	MIXED1  x30
+end
+
+projection18
+%	Ch	Amp	Freq	Gain
+	1	600uA	MIXED1  x30
+	2	Null	Null	x30
+	3	Null	Null	x30
+	4	Null	Null	x30
+	5	Null	Null	x30
+	6	Null	Null	x30
+	7	Null	Null	x30
+	8	-600uA	MIXED1  x30
+	9	600uA	MIXED1  x30
+	10	Null	Null	x30
+	11	Null	Null	x30
+	12	Null	Null	x30
+	13	Null	Null	x30
+	14	Null	Null	x30
+	15	Null	Null	x30
+	16	-600uA	MIXED1  x30
+end

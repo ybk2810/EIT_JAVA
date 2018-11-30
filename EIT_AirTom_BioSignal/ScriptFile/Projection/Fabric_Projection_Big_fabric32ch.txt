@@ -1,0 +1,608 @@
+projection1												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	7	Null	7	Null	Null	24	23	Null
+	2	1000uA	10kHz	x30	7	Null	6	7	Null	24	22	23
+	3	1000uA	10kHz	x30	7	Null	5	6	Null	24	21	22
+	4	1000uA	10kHz	x30	7	Null	4	5	Null	24	20	21
+	5	1000uA	10kHz	x30	7	Null	3	4	Null	24	19	20
+	6	1000uA	10kHz	x30	7	Null	2	3	Null	24	18	19
+	7	1000uA	10kHz	x30	7	Null	1	2	Null	24	17	18
+	8	1000uA	10kHz	x30	7	Null	0	1	Null	24	16	17
+	9	1000uA	10kHz	x30	7	Null	15	0	Null	24	31	16
+	10	1000uA	10kHz	x30	7	Null	14	15	Null	24	30	31
+	11	1000uA	10kHz	x30	7	Null	13	14	Null	24	29	30
+	12	1000uA	10kHz	x30	7	Null	12	13	Null	24	28	29
+	13	1000uA	10kHz	x30	7	Null	11	12	Null	24	27	28
+	14	1000uA	10kHz	x30	7	Null	10	11	Null	24	26	27
+	15	1000uA	10kHz	x30	7	Null	9	10	Null	24	25	26
+	16	1000uA	10kHz	x30	7	Null	8	9	Null	24	24	25
+end												
+projection2												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	6	7	7	Null	Null	Null	23	Null
+	2	1000uA	10kHz	x30	6	7	6	7	Null	Null	22	23
+	3	1000uA	10kHz	x30	6	7	5	6	Null	Null	21	22
+	4	1000uA	10kHz	x30	6	7	4	5	Null	Null	20	21
+	5	1000uA	10kHz	x30	6	7	3	4	Null	Null	19	20
+	6	1000uA	10kHz	x30	6	7	2	3	Null	Null	18	19
+	7	1000uA	10kHz	x30	6	7	1	2	Null	Null	17	18
+	8	1000uA	10kHz	x30	6	7	0	1	Null	Null	16	17
+	9	1000uA	10kHz	x30	6	7	15	0	Null	Null	31	16
+	10	1000uA	10kHz	x30	6	7	14	15	Null	Null	30	31
+	11	1000uA	10kHz	x30	6	7	13	14	Null	Null	29	30
+	12	1000uA	10kHz	x30	6	7	12	13	Null	Null	28	29
+	13	1000uA	10kHz	x30	6	7	11	12	Null	Null	27	28
+	14	1000uA	10kHz	x30	6	7	10	11	Null	Null	26	27
+	15	1000uA	10kHz	x30	6	7	9	10	Null	Null	25	26
+	16	1000uA	10kHz	x30	6	7	8	9	Null	Null	24	25
+end												
+projection3												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	5	6	7	Null	Null	Null	23	Null
+	2	1000uA	10kHz	x30	5	6	6	7	Null	Null	22	23
+	3	1000uA	10kHz	x30	5	6	5	6	Null	Null	21	22
+	4	1000uA	10kHz	x30	5	6	4	5	Null	Null	20	21
+	5	1000uA	10kHz	x30	5	6	3	4	Null	Null	19	20
+	6	1000uA	10kHz	x30	5	6	2	3	Null	Null	18	19
+	7	1000uA	10kHz	x30	5	6	1	2	Null	Null	17	18
+	8	1000uA	10kHz	x30	5	6	0	1	Null	Null	16	17
+	9	1000uA	10kHz	x30	5	6	15	0	Null	Null	31	16
+	10	1000uA	10kHz	x30	5	6	14	15	Null	Null	30	31
+	11	1000uA	10kHz	x30	5	6	13	14	Null	Null	29	30
+	12	1000uA	10kHz	x30	5	6	12	13	Null	Null	28	29
+	13	1000uA	10kHz	x30	5	6	11	12	Null	Null	27	28
+	14	1000uA	10kHz	x30	5	6	10	11	Null	Null	26	27
+	15	1000uA	10kHz	x30	5	6	9	10	Null	Null	25	26
+	16	1000uA	10kHz	x30	5	6	8	9	Null	Null	24	25
+end												
+projection4												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	4	5	7	Null	Null	Null	23	Null
+	2	1000uA	10kHz	x30	4	5	6	7	Null	Null	22	23
+	3	1000uA	10kHz	x30	4	5	5	6	Null	Null	21	22
+	4	1000uA	10kHz	x30	4	5	4	5	Null	Null	20	21
+	5	1000uA	10kHz	x30	4	5	3	4	Null	Null	19	20
+	6	1000uA	10kHz	x30	4	5	2	3	Null	Null	18	19
+	7	1000uA	10kHz	x30	4	5	1	2	Null	Null	17	18
+	8	1000uA	10kHz	x30	4	5	0	1	Null	Null	16	17
+	9	1000uA	10kHz	x30	4	5	15	0	Null	Null	31	16
+	10	1000uA	10kHz	x30	4	5	14	15	Null	Null	30	31
+	11	1000uA	10kHz	x30	4	5	13	14	Null	Null	29	30
+	12	1000uA	10kHz	x30	4	5	12	13	Null	Null	28	29
+	13	1000uA	10kHz	x30	4	5	11	12	Null	Null	27	28
+	14	1000uA	10kHz	x30	4	5	10	11	Null	Null	26	27
+	15	1000uA	10kHz	x30	4	5	9	10	Null	Null	25	26
+	16	1000uA	10kHz	x30	4	5	8	9	Null	Null	24	25
+end												
+projection5												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	3	4	7	Null	Null	Null	23	Null
+	2	1000uA	10kHz	x30	3	4	6	7	Null	Null	22	23
+	3	1000uA	10kHz	x30	3	4	5	6	Null	Null	21	22
+	4	1000uA	10kHz	x30	3	4	4	5	Null	Null	20	21
+	5	1000uA	10kHz	x30	3	4	3	4	Null	Null	19	20
+	6	1000uA	10kHz	x30	3	4	2	3	Null	Null	18	19
+	7	1000uA	10kHz	x30	3	4	1	2	Null	Null	17	18
+	8	1000uA	10kHz	x30	3	4	0	1	Null	Null	16	17
+	9	1000uA	10kHz	x30	3	4	15	0	Null	Null	31	16
+	10	1000uA	10kHz	x30	3	4	14	15	Null	Null	30	31
+	11	1000uA	10kHz	x30	3	4	13	14	Null	Null	29	30
+	12	1000uA	10kHz	x30	3	4	12	13	Null	Null	28	29
+	13	1000uA	10kHz	x30	3	4	11	12	Null	Null	27	28
+	14	1000uA	10kHz	x30	3	4	10	11	Null	Null	26	27
+	15	1000uA	10kHz	x30	3	4	9	10	Null	Null	25	26
+	16	1000uA	10kHz	x30	3	4	8	9	Null	Null	24	25
+end												
+projection6												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	2	3	7	Null	Null	Null	23	Null
+	2	1000uA	10kHz	x30	2	3	6	7	Null	Null	22	23
+	3	1000uA	10kHz	x30	2	3	5	6	Null	Null	21	22
+	4	1000uA	10kHz	x30	2	3	4	5	Null	Null	20	21
+	5	1000uA	10kHz	x30	2	3	3	4	Null	Null	19	20
+	6	1000uA	10kHz	x30	2	3	2	3	Null	Null	18	19
+	7	1000uA	10kHz	x30	2	3	1	2	Null	Null	17	18
+	8	1000uA	10kHz	x30	2	3	0	1	Null	Null	16	17
+	9	1000uA	10kHz	x30	2	3	15	0	Null	Null	31	16
+	10	1000uA	10kHz	x30	2	3	14	15	Null	Null	30	31
+	11	1000uA	10kHz	x30	2	3	13	14	Null	Null	29	30
+	12	1000uA	10kHz	x30	2	3	12	13	Null	Null	28	29
+	13	1000uA	10kHz	x30	2	3	11	12	Null	Null	27	28
+	14	1000uA	10kHz	x30	2	3	10	11	Null	Null	26	27
+	15	1000uA	10kHz	x30	2	3	9	10	Null	Null	25	26
+	16	1000uA	10kHz	x30	2	3	8	9	Null	Null	24	25
+end												
+projection7												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	1	2	7	Null	Null	Null	23	Null
+	2	1000uA	10kHz	x30	1	2	6	7	Null	Null	22	23
+	3	1000uA	10kHz	x30	1	2	5	6	Null	Null	21	22
+	4	1000uA	10kHz	x30	1	2	4	5	Null	Null	20	21
+	5	1000uA	10kHz	x30	1	2	3	4	Null	Null	19	20
+	6	1000uA	10kHz	x30	1	2	2	3	Null	Null	18	19
+	7	1000uA	10kHz	x30	1	2	1	2	Null	Null	17	18
+	8	1000uA	10kHz	x30	1	2	0	1	Null	Null	16	17
+	9	1000uA	10kHz	x30	1	2	15	0	Null	Null	31	16
+	10	1000uA	10kHz	x30	1	2	14	15	Null	Null	30	31
+	11	1000uA	10kHz	x30	1	2	13	14	Null	Null	29	30
+	12	1000uA	10kHz	x30	1	2	12	13	Null	Null	28	29
+	13	1000uA	10kHz	x30	1	2	11	12	Null	Null	27	28
+	14	1000uA	10kHz	x30	1	2	10	11	Null	Null	26	27
+	15	1000uA	10kHz	x30	1	2	9	10	Null	Null	25	26
+	16	1000uA	10kHz	x30	1	2	8	9	Null	Null	24	25
+end												
+projection8												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	0	1	7	Null	Null	Null	23	Null
+	2	1000uA	10kHz	x30	0	1	6	7	Null	Null	22	23
+	3	1000uA	10kHz	x30	0	1	5	6	Null	Null	21	22
+	4	1000uA	10kHz	x30	0	1	4	5	Null	Null	20	21
+	5	1000uA	10kHz	x30	0	1	3	4	Null	Null	19	20
+	6	1000uA	10kHz	x30	0	1	2	3	Null	Null	18	19
+	7	1000uA	10kHz	x30	0	1	1	2	Null	Null	17	18
+	8	1000uA	10kHz	x30	0	1	0	1	Null	Null	16	17
+	9	1000uA	10kHz	x30	0	1	15	0	Null	Null	31	16
+	10	1000uA	10kHz	x30	0	1	14	15	Null	Null	30	31
+	11	1000uA	10kHz	x30	0	1	13	14	Null	Null	29	30
+	12	1000uA	10kHz	x30	0	1	12	13	Null	Null	28	29
+	13	1000uA	10kHz	x30	0	1	11	12	Null	Null	27	28
+	14	1000uA	10kHz	x30	0	1	10	11	Null	Null	26	27
+	15	1000uA	10kHz	x30	0	1	9	10	Null	Null	25	26
+	16	1000uA	10kHz	x30	0	1	8	9	Null	Null	24	25
+end												
+projection9												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	15	0	7	Null	Null	Null	23	Null
+	2	1000uA	10kHz	x30	15	0	6	7	Null	Null	22	23
+	3	1000uA	10kHz	x30	15	0	5	6	Null	Null	21	22
+	4	1000uA	10kHz	x30	15	0	4	5	Null	Null	20	21
+	5	1000uA	10kHz	x30	15	0	3	4	Null	Null	19	20
+	6	1000uA	10kHz	x30	15	0	2	3	Null	Null	18	19
+	7	1000uA	10kHz	x30	15	0	1	2	Null	Null	17	18
+	8	1000uA	10kHz	x30	15	0	0	1	Null	Null	16	17
+	9	1000uA	10kHz	x30	15	0	15	0	Null	Null	31	16
+	10	1000uA	10kHz	x30	15	0	14	15	Null	Null	30	31
+	11	1000uA	10kHz	x30	15	0	13	14	Null	Null	29	30
+	12	1000uA	10kHz	x30	15	0	12	13	Null	Null	28	29
+	13	1000uA	10kHz	x30	15	0	11	12	Null	Null	27	28
+	14	1000uA	10kHz	x30	15	0	10	11	Null	Null	26	27
+	15	1000uA	10kHz	x30	15	0	9	10	Null	Null	25	26
+	16	1000uA	10kHz	x30	15	0	8	9	Null	Null	24	25
+end												
+projection10												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	14	15	7	Null	Null	Null	23	Null
+	2	1000uA	10kHz	x30	14	15	6	7	Null	Null	22	23
+	3	1000uA	10kHz	x30	14	15	5	6	Null	Null	21	22
+	4	1000uA	10kHz	x30	14	15	4	5	Null	Null	20	21
+	5	1000uA	10kHz	x30	14	15	3	4	Null	Null	19	20
+	6	1000uA	10kHz	x30	14	15	2	3	Null	Null	18	19
+	7	1000uA	10kHz	x30	14	15	1	2	Null	Null	17	18
+	8	1000uA	10kHz	x30	14	15	0	1	Null	Null	16	17
+	9	1000uA	10kHz	x30	14	15	15	0	Null	Null	31	16
+	10	1000uA	10kHz	x30	14	15	14	15	Null	Null	30	31
+	11	1000uA	10kHz	x30	14	15	13	14	Null	Null	29	30
+	12	1000uA	10kHz	x30	14	15	12	13	Null	Null	28	29
+	13	1000uA	10kHz	x30	14	15	11	12	Null	Null	27	28
+	14	1000uA	10kHz	x30	14	15	10	11	Null	Null	26	27
+	15	1000uA	10kHz	x30	14	15	9	10	Null	Null	25	26
+	16	1000uA	10kHz	x30	14	15	8	9	Null	Null	24	25
+end												
+projection11												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	13	14	7	Null	Null	Null	23	Null
+	2	1000uA	10kHz	x30	13	14	6	7	Null	Null	22	23
+	3	1000uA	10kHz	x30	13	14	5	6	Null	Null	21	22
+	4	1000uA	10kHz	x30	13	14	4	5	Null	Null	20	21
+	5	1000uA	10kHz	x30	13	14	3	4	Null	Null	19	20
+	6	1000uA	10kHz	x30	13	14	2	3	Null	Null	18	19
+	7	1000uA	10kHz	x30	13	14	1	2	Null	Null	17	18
+	8	1000uA	10kHz	x30	13	14	0	1	Null	Null	16	17
+	9	1000uA	10kHz	x30	13	14	15	0	Null	Null	31	16
+	10	1000uA	10kHz	x30	13	14	14	15	Null	Null	30	31
+	11	1000uA	10kHz	x30	13	14	13	14	Null	Null	29	30
+	12	1000uA	10kHz	x30	13	14	12	13	Null	Null	28	29
+	13	1000uA	10kHz	x30	13	14	11	12	Null	Null	27	28
+	14	1000uA	10kHz	x30	13	14	10	11	Null	Null	26	27
+	15	1000uA	10kHz	x30	13	14	9	10	Null	Null	25	26
+	16	1000uA	10kHz	x30	13	14	8	9	Null	Null	24	25
+end												
+projection12												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	12	13	7	Null	Null	Null	23	Null
+	2	1000uA	10kHz	x30	12	13	6	7	Null	Null	22	23
+	3	1000uA	10kHz	x30	12	13	5	6	Null	Null	21	22
+	4	1000uA	10kHz	x30	12	13	4	5	Null	Null	20	21
+	5	1000uA	10kHz	x30	12	13	3	4	Null	Null	19	20
+	6	1000uA	10kHz	x30	12	13	2	3	Null	Null	18	19
+	7	1000uA	10kHz	x30	12	13	1	2	Null	Null	17	18
+	8	1000uA	10kHz	x30	12	13	0	1	Null	Null	16	17
+	9	1000uA	10kHz	x30	12	13	15	0	Null	Null	31	16
+	10	1000uA	10kHz	x30	12	13	14	15	Null	Null	30	31
+	11	1000uA	10kHz	x30	12	13	13	14	Null	Null	29	30
+	12	1000uA	10kHz	x30	12	13	12	13	Null	Null	28	29
+	13	1000uA	10kHz	x30	12	13	11	12	Null	Null	27	28
+	14	1000uA	10kHz	x30	12	13	10	11	Null	Null	26	27
+	15	1000uA	10kHz	x30	12	13	9	10	Null	Null	25	26
+	16	1000uA	10kHz	x30	12	13	8	9	Null	Null	24	25
+end												
+projection13												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	11	12	7	Null	Null	Null	23	Null
+	2	1000uA	10kHz	x30	11	12	6	7	Null	Null	22	23
+	3	1000uA	10kHz	x30	11	12	5	6	Null	Null	21	22
+	4	1000uA	10kHz	x30	11	12	4	5	Null	Null	20	21
+	5	1000uA	10kHz	x30	11	12	3	4	Null	Null	19	20
+	6	1000uA	10kHz	x30	11	12	2	3	Null	Null	18	19
+	7	1000uA	10kHz	x30	11	12	1	2	Null	Null	17	18
+	8	1000uA	10kHz	x30	11	12	0	1	Null	Null	16	17
+	9	1000uA	10kHz	x30	11	12	15	0	Null	Null	31	16
+	10	1000uA	10kHz	x30	11	12	14	15	Null	Null	30	31
+	11	1000uA	10kHz	x30	11	12	13	14	Null	Null	29	30
+	12	1000uA	10kHz	x30	11	12	12	13	Null	Null	28	29
+	13	1000uA	10kHz	x30	11	12	11	12	Null	Null	27	28
+	14	1000uA	10kHz	x30	11	12	10	11	Null	Null	26	27
+	15	1000uA	10kHz	x30	11	12	9	10	Null	Null	25	26
+	16	1000uA	10kHz	x30	11	12	8	9	Null	Null	24	25
+end												
+projection14												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	10	11	7	Null	Null	Null	23	Null
+	2	1000uA	10kHz	x30	10	11	6	7	Null	Null	22	23
+	3	1000uA	10kHz	x30	10	11	5	6	Null	Null	21	22
+	4	1000uA	10kHz	x30	10	11	4	5	Null	Null	20	21
+	5	1000uA	10kHz	x30	10	11	3	4	Null	Null	19	20
+	6	1000uA	10kHz	x30	10	11	2	3	Null	Null	18	19
+	7	1000uA	10kHz	x30	10	11	1	2	Null	Null	17	18
+	8	1000uA	10kHz	x30	10	11	0	1	Null	Null	16	17
+	9	1000uA	10kHz	x30	10	11	15	0	Null	Null	31	16
+	10	1000uA	10kHz	x30	10	11	14	15	Null	Null	30	31
+	11	1000uA	10kHz	x30	10	11	13	14	Null	Null	29	30
+	12	1000uA	10kHz	x30	10	11	12	13	Null	Null	28	29
+	13	1000uA	10kHz	x30	10	11	11	12	Null	Null	27	28
+	14	1000uA	10kHz	x30	10	11	10	11	Null	Null	26	27
+	15	1000uA	10kHz	x30	10	11	9	10	Null	Null	25	26
+	16	1000uA	10kHz	x30	10	11	8	9	Null	Null	24	25
+end												
+projection15												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	9	10	7	Null	Null	Null	23	Null
+	2	1000uA	10kHz	x30	9	10	6	7	Null	Null	22	23
+	3	1000uA	10kHz	x30	9	10	5	6	Null	Null	21	22
+	4	1000uA	10kHz	x30	9	10	4	5	Null	Null	20	21
+	5	1000uA	10kHz	x30	9	10	3	4	Null	Null	19	20
+	6	1000uA	10kHz	x30	9	10	2	3	Null	Null	18	19
+	7	1000uA	10kHz	x30	9	10	1	2	Null	Null	17	18
+	8	1000uA	10kHz	x30	9	10	0	1	Null	Null	16	17
+	9	1000uA	10kHz	x30	9	10	15	0	Null	Null	31	16
+	10	1000uA	10kHz	x30	9	10	14	15	Null	Null	30	31
+	11	1000uA	10kHz	x30	9	10	13	14	Null	Null	29	30
+	12	1000uA	10kHz	x30	9	10	12	13	Null	Null	28	29
+	13	1000uA	10kHz	x30	9	10	11	12	Null	Null	27	28
+	14	1000uA	10kHz	x30	9	10	10	11	Null	Null	26	27
+	15	1000uA	10kHz	x30	9	10	9	10	Null	Null	25	26
+	16	1000uA	10kHz	x30	9	10	8	9	Null	Null	24	25
+end												
+projection16												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	8	9	7	Null	Null	Null	23	Null
+	2	1000uA	10kHz	x30	8	9	6	7	Null	Null	22	23
+	3	1000uA	10kHz	x30	8	9	5	6	Null	Null	21	22
+	4	1000uA	10kHz	x30	8	9	4	5	Null	Null	20	21
+	5	1000uA	10kHz	x30	8	9	3	4	Null	Null	19	20
+	6	1000uA	10kHz	x30	8	9	2	3	Null	Null	18	19
+	7	1000uA	10kHz	x30	8	9	1	2	Null	Null	17	18
+	8	1000uA	10kHz	x30	8	9	0	1	Null	Null	16	17
+	9	1000uA	10kHz	x30	8	9	15	0	Null	Null	31	16
+	10	1000uA	10kHz	x30	8	9	14	15	Null	Null	30	31
+	11	1000uA	10kHz	x30	8	9	13	14	Null	Null	29	30
+	12	1000uA	10kHz	x30	8	9	12	13	Null	Null	28	29
+	13	1000uA	10kHz	x30	8	9	11	12	Null	Null	27	28
+	14	1000uA	10kHz	x30	8	9	10	11	Null	Null	26	27
+	15	1000uA	10kHz	x30	8	9	9	10	Null	Null	25	26
+	16	1000uA	10kHz	x30	8	9	8	9	Null	Null	24	25
+end												
+projection17												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	Null	8	7	Null	23	Null	23	Null
+	2	1000uA	10kHz	x30	Null	8	6	7	23	Null	22	23
+	3	1000uA	10kHz	x30	Null	8	5	6	23	Null	21	22
+	4	1000uA	10kHz	x30	Null	8	4	5	23	Null	20	21
+	5	1000uA	10kHz	x30	Null	8	3	4	23	Null	19	20
+	6	1000uA	10kHz	x30	Null	8	2	3	23	Null	18	19
+	7	1000uA	10kHz	x30	Null	8	1	2	23	Null	17	18
+	8	1000uA	10kHz	x30	Null	8	0	1	23	Null	16	17
+	9	1000uA	10kHz	x30	Null	8	15	0	23	Null	31	16
+	10	1000uA	10kHz	x30	Null	8	14	15	23	Null	30	31
+	11	1000uA	10kHz	x30	Null	8	13	14	23	Null	29	30
+	12	1000uA	10kHz	x30	Null	8	12	13	23	Null	28	29
+	13	1000uA	10kHz	x30	Null	8	11	12	23	Null	27	28
+	14	1000uA	10kHz	x30	Null	8	10	11	23	Null	26	27
+	15	1000uA	10kHz	x30	Null	8	9	10	23	Null	25	26
+	16	1000uA	10kHz	x30	Null	8	8	9	23	Null	24	25
+end												
+projection18												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	Null	Null	7	Null	22	23	23	Null
+	2	1000uA	10kHz	x30	Null	Null	6	7	22	23	22	23
+	3	1000uA	10kHz	x30	Null	Null	5	6	22	23	21	22
+	4	1000uA	10kHz	x30	Null	Null	4	5	22	23	20	21
+	5	1000uA	10kHz	x30	Null	Null	3	4	22	23	19	20
+	6	1000uA	10kHz	x30	Null	Null	2	3	22	23	18	19
+	7	1000uA	10kHz	x30	Null	Null	1	2	22	23	17	18
+	8	1000uA	10kHz	x30	Null	Null	0	1	22	23	16	17
+	9	1000uA	10kHz	x30	Null	Null	15	0	22	23	31	16
+	10	1000uA	10kHz	x30	Null	Null	14	15	22	23	30	31
+	11	1000uA	10kHz	x30	Null	Null	13	14	22	23	29	30
+	12	1000uA	10kHz	x30	Null	Null	12	13	22	23	28	29
+	13	1000uA	10kHz	x30	Null	Null	11	12	22	23	27	28
+	14	1000uA	10kHz	x30	Null	Null	10	11	22	23	26	27
+	15	1000uA	10kHz	x30	Null	Null	9	10	22	23	25	26
+	16	1000uA	10kHz	x30	Null	Null	8	9	22	23	24	25
+end												
+projection19												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	Null	Null	7	Null	21	22	23	Null
+	2	1000uA	10kHz	x30	Null	Null	6	7	21	22	22	23
+	3	1000uA	10kHz	x30	Null	Null	5	6	21	22	21	22
+	4	1000uA	10kHz	x30	Null	Null	4	5	21	22	20	21
+	5	1000uA	10kHz	x30	Null	Null	3	4	21	22	19	20
+	6	1000uA	10kHz	x30	Null	Null	2	3	21	22	18	19
+	7	1000uA	10kHz	x30	Null	Null	1	2	21	22	17	18
+	8	1000uA	10kHz	x30	Null	Null	0	1	21	22	16	17
+	9	1000uA	10kHz	x30	Null	Null	15	0	21	22	31	16
+	10	1000uA	10kHz	x30	Null	Null	14	15	21	22	30	31
+	11	1000uA	10kHz	x30	Null	Null	13	14	21	22	29	30
+	12	1000uA	10kHz	x30	Null	Null	12	13	21	22	28	29
+	13	1000uA	10kHz	x30	Null	Null	11	12	21	22	27	28
+	14	1000uA	10kHz	x30	Null	Null	10	11	21	22	26	27
+	15	1000uA	10kHz	x30	Null	Null	9	10	21	22	25	26
+	16	1000uA	10kHz	x30	Null	Null	8	9	21	22	24	25
+end												
+projection20												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	Null	Null	7	Null	20	21	23	Null
+	2	1000uA	10kHz	x30	Null	Null	6	7	20	21	22	23
+	3	1000uA	10kHz	x30	Null	Null	5	6	20	21	21	22
+	4	1000uA	10kHz	x30	Null	Null	4	5	20	21	20	21
+	5	1000uA	10kHz	x30	Null	Null	3	4	20	21	19	20
+	6	1000uA	10kHz	x30	Null	Null	2	3	20	21	18	19
+	7	1000uA	10kHz	x30	Null	Null	1	2	20	21	17	18
+	8	1000uA	10kHz	x30	Null	Null	0	1	20	21	16	17
+	9	1000uA	10kHz	x30	Null	Null	15	0	20	21	31	16
+	10	1000uA	10kHz	x30	Null	Null	14	15	20	21	30	31
+	11	1000uA	10kHz	x30	Null	Null	13	14	20	21	29	30
+	12	1000uA	10kHz	x30	Null	Null	12	13	20	21	28	29
+	13	1000uA	10kHz	x30	Null	Null	11	12	20	21	27	28
+	14	1000uA	10kHz	x30	Null	Null	10	11	20	21	26	27
+	15	1000uA	10kHz	x30	Null	Null	9	10	20	21	25	26
+	16	1000uA	10kHz	x30	Null	Null	8	9	20	21	24	25
+end												
+projection21												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	Null	Null	7	Null	19	20	23	Null
+	2	1000uA	10kHz	x30	Null	Null	6	7	19	20	22	23
+	3	1000uA	10kHz	x30	Null	Null	5	6	19	20	21	22
+	4	1000uA	10kHz	x30	Null	Null	4	5	19	20	20	21
+	5	1000uA	10kHz	x30	Null	Null	3	4	19	20	19	20
+	6	1000uA	10kHz	x30	Null	Null	2	3	19	20	18	19
+	7	1000uA	10kHz	x30	Null	Null	1	2	19	20	17	18
+	8	1000uA	10kHz	x30	Null	Null	0	1	19	20	16	17
+	9	1000uA	10kHz	x30	Null	Null	15	0	19	20	31	16
+	10	1000uA	10kHz	x30	Null	Null	14	15	19	20	30	31
+	11	1000uA	10kHz	x30	Null	Null	13	14	19	20	29	30
+	12	1000uA	10kHz	x30	Null	Null	12	13	19	20	28	29
+	13	1000uA	10kHz	x30	Null	Null	11	12	19	20	27	28
+	14	1000uA	10kHz	x30	Null	Null	10	11	19	20	26	27
+	15	1000uA	10kHz	x30	Null	Null	9	10	19	20	25	26
+	16	1000uA	10kHz	x30	Null	Null	8	9	19	20	24	25
+end												
+projection22												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	Null	Null	7	Null	18	19	23	Null
+	2	1000uA	10kHz	x30	Null	Null	6	7	18	19	22	23
+	3	1000uA	10kHz	x30	Null	Null	5	6	18	19	21	22
+	4	1000uA	10kHz	x30	Null	Null	4	5	18	19	20	21
+	5	1000uA	10kHz	x30	Null	Null	3	4	18	19	19	20
+	6	1000uA	10kHz	x30	Null	Null	2	3	18	19	18	19
+	7	1000uA	10kHz	x30	Null	Null	1	2	18	19	17	18
+	8	1000uA	10kHz	x30	Null	Null	0	1	18	19	16	17
+	9	1000uA	10kHz	x30	Null	Null	15	0	18	19	31	16
+	10	1000uA	10kHz	x30	Null	Null	14	15	18	19	30	31
+	11	1000uA	10kHz	x30	Null	Null	13	14	18	19	29	30
+	12	1000uA	10kHz	x30	Null	Null	12	13	18	19	28	29
+	13	1000uA	10kHz	x30	Null	Null	11	12	18	19	27	28
+	14	1000uA	10kHz	x30	Null	Null	10	11	18	19	26	27
+	15	1000uA	10kHz	x30	Null	Null	9	10	18	19	25	26
+	16	1000uA	10kHz	x30	Null	Null	8	9	18	19	24	25
+end												
+projection23												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	Null	Null	7	Null	17	18	23	Null
+	2	1000uA	10kHz	x30	Null	Null	6	7	17	18	22	23
+	3	1000uA	10kHz	x30	Null	Null	5	6	17	18	21	22
+	4	1000uA	10kHz	x30	Null	Null	4	5	17	18	20	21
+	5	1000uA	10kHz	x30	Null	Null	3	4	17	18	19	20
+	6	1000uA	10kHz	x30	Null	Null	2	3	17	18	18	19
+	7	1000uA	10kHz	x30	Null	Null	1	2	17	18	17	18
+	8	1000uA	10kHz	x30	Null	Null	0	1	17	18	16	17
+	9	1000uA	10kHz	x30	Null	Null	15	0	17	18	31	16
+	10	1000uA	10kHz	x30	Null	Null	14	15	17	18	30	31
+	11	1000uA	10kHz	x30	Null	Null	13	14	17	18	29	30
+	12	1000uA	10kHz	x30	Null	Null	12	13	17	18	28	29
+	13	1000uA	10kHz	x30	Null	Null	11	12	17	18	27	28
+	14	1000uA	10kHz	x30	Null	Null	10	11	17	18	26	27
+	15	1000uA	10kHz	x30	Null	Null	9	10	17	18	25	26
+	16	1000uA	10kHz	x30	Null	Null	8	9	17	18	24	25
+end												
+projection24												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	Null	Null	7	Null	16	17	23	Null
+	2	1000uA	10kHz	x30	Null	Null	6	7	16	17	22	23
+	3	1000uA	10kHz	x30	Null	Null	5	6	16	17	21	22
+	4	1000uA	10kHz	x30	Null	Null	4	5	16	17	20	21
+	5	1000uA	10kHz	x30	Null	Null	3	4	16	17	19	20
+	6	1000uA	10kHz	x30	Null	Null	2	3	16	17	18	19
+	7	1000uA	10kHz	x30	Null	Null	1	2	16	17	17	18
+	8	1000uA	10kHz	x30	Null	Null	0	1	16	17	16	17
+	9	1000uA	10kHz	x30	Null	Null	15	0	16	17	31	16
+	10	1000uA	10kHz	x30	Null	Null	14	15	16	17	30	31
+	11	1000uA	10kHz	x30	Null	Null	13	14	16	17	29	30
+	12	1000uA	10kHz	x30	Null	Null	12	13	16	17	28	29
+	13	1000uA	10kHz	x30	Null	Null	11	12	16	17	27	28
+	14	1000uA	10kHz	x30	Null	Null	10	11	16	17	26	27
+	15	1000uA	10kHz	x30	Null	Null	9	10	16	17	25	26
+	16	1000uA	10kHz	x30	Null	Null	8	9	16	17	24	25
+end												
+projection25												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	Null	Null	7	Null	31	16	23	Null
+	2	1000uA	10kHz	x30	Null	Null	6	7	31	16	22	23
+	3	1000uA	10kHz	x30	Null	Null	5	6	31	16	21	22
+	4	1000uA	10kHz	x30	Null	Null	4	5	31	16	20	21
+	5	1000uA	10kHz	x30	Null	Null	3	4	31	16	19	20
+	6	1000uA	10kHz	x30	Null	Null	2	3	31	16	18	19
+	7	1000uA	10kHz	x30	Null	Null	1	2	31	16	17	18
+	8	1000uA	10kHz	x30	Null	Null	0	1	31	16	16	17
+	9	1000uA	10kHz	x30	Null	Null	15	0	31	16	31	16
+	10	1000uA	10kHz	x30	Null	Null	14	15	31	16	30	31
+	11	1000uA	10kHz	x30	Null	Null	13	14	31	16	29	30
+	12	1000uA	10kHz	x30	Null	Null	12	13	31	16	28	29
+	13	1000uA	10kHz	x30	Null	Null	11	12	31	16	27	28
+	14	1000uA	10kHz	x30	Null	Null	10	11	31	16	26	27
+	15	1000uA	10kHz	x30	Null	Null	9	10	31	16	25	26
+	16	1000uA	10kHz	x30	Null	Null	8	9	31	16	24	25
+end												
+projection26												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	Null	Null	7	Null	30	31	23	Null
+	2	1000uA	10kHz	x30	Null	Null	6	7	30	31	22	23
+	3	1000uA	10kHz	x30	Null	Null	5	6	30	31	21	22
+	4	1000uA	10kHz	x30	Null	Null	4	5	30	31	20	21
+	5	1000uA	10kHz	x30	Null	Null	3	4	30	31	19	20
+	6	1000uA	10kHz	x30	Null	Null	2	3	30	31	18	19
+	7	1000uA	10kHz	x30	Null	Null	1	2	30	31	17	18
+	8	1000uA	10kHz	x30	Null	Null	0	1	30	31	16	17
+	9	1000uA	10kHz	x30	Null	Null	15	0	30	31	31	16
+	10	1000uA	10kHz	x30	Null	Null	14	15	30	31	30	31
+	11	1000uA	10kHz	x30	Null	Null	13	14	30	31	29	30
+	12	1000uA	10kHz	x30	Null	Null	12	13	30	31	28	29
+	13	1000uA	10kHz	x30	Null	Null	11	12	30	31	27	28
+	14	1000uA	10kHz	x30	Null	Null	10	11	30	31	26	27
+	15	1000uA	10kHz	x30	Null	Null	9	10	30	31	25	26
+	16	1000uA	10kHz	x30	Null	Null	8	9	30	31	24	25
+end												
+projection27												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	Null	Null	7	Null	29	30	23	Null
+	2	1000uA	10kHz	x30	Null	Null	6	7	29	30	22	23
+	3	1000uA	10kHz	x30	Null	Null	5	6	29	30	21	22
+	4	1000uA	10kHz	x30	Null	Null	4	5	29	30	20	21
+	5	1000uA	10kHz	x30	Null	Null	3	4	29	30	19	20
+	6	1000uA	10kHz	x30	Null	Null	2	3	29	30	18	19
+	7	1000uA	10kHz	x30	Null	Null	1	2	29	30	17	18
+	8	1000uA	10kHz	x30	Null	Null	0	1	29	30	16	17
+	9	1000uA	10kHz	x30	Null	Null	15	0	29	30	31	16
+	10	1000uA	10kHz	x30	Null	Null	14	15	29	30	30	31
+	11	1000uA	10kHz	x30	Null	Null	13	14	29	30	29	30
+	12	1000uA	10kHz	x30	Null	Null	12	13	29	30	28	29
+	13	1000uA	10kHz	x30	Null	Null	11	12	29	30	27	28
+	14	1000uA	10kHz	x30	Null	Null	10	11	29	30	26	27
+	15	1000uA	10kHz	x30	Null	Null	9	10	29	30	25	26
+	16	1000uA	10kHz	x30	Null	Null	8	9	29	30	24	25
+end												
+projection28												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	Null	Null	7	Null	28	29	23	Null
+	2	1000uA	10kHz	x30	Null	Null	6	7	28	29	22	23
+	3	1000uA	10kHz	x30	Null	Null	5	6	28	29	21	22
+	4	1000uA	10kHz	x30	Null	Null	4	5	28	29	20	21
+	5	1000uA	10kHz	x30	Null	Null	3	4	28	29	19	20
+	6	1000uA	10kHz	x30	Null	Null	2	3	28	29	18	19
+	7	1000uA	10kHz	x30	Null	Null	1	2	28	29	17	18
+	8	1000uA	10kHz	x30	Null	Null	0	1	28	29	16	17
+	9	1000uA	10kHz	x30	Null	Null	15	0	28	29	31	16
+	10	1000uA	10kHz	x30	Null	Null	14	15	28	29	30	31
+	11	1000uA	10kHz	x30	Null	Null	13	14	28	29	29	30
+	12	1000uA	10kHz	x30	Null	Null	12	13	28	29	28	29
+	13	1000uA	10kHz	x30	Null	Null	11	12	28	29	27	28
+	14	1000uA	10kHz	x30	Null	Null	10	11	28	29	26	27
+	15	1000uA	10kHz	x30	Null	Null	9	10	28	29	25	26
+	16	1000uA	10kHz	x30	Null	Null	8	9	28	29	24	25
+end												
+projection29												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	Null	Null	7	Null	27	28	23	Null
+	2	1000uA	10kHz	x30	Null	Null	6	7	27	28	22	23
+	3	1000uA	10kHz	x30	Null	Null	5	6	27	28	21	22
+	4	1000uA	10kHz	x30	Null	Null	4	5	27	28	20	21
+	5	1000uA	10kHz	x30	Null	Null	3	4	27	28	19	20
+	6	1000uA	10kHz	x30	Null	Null	2	3	27	28	18	19
+	7	1000uA	10kHz	x30	Null	Null	1	2	27	28	17	18
+	8	1000uA	10kHz	x30	Null	Null	0	1	27	28	16	17
+	9	1000uA	10kHz	x30	Null	Null	15	0	27	28	31	16
+	10	1000uA	10kHz	x30	Null	Null	14	15	27	28	30	31
+	11	1000uA	10kHz	x30	Null	Null	13	14	27	28	29	30
+	12	1000uA	10kHz	x30	Null	Null	12	13	27	28	28	29
+	13	1000uA	10kHz	x30	Null	Null	11	12	27	28	27	28
+	14	1000uA	10kHz	x30	Null	Null	10	11	27	28	26	27
+	15	1000uA	10kHz	x30	Null	Null	9	10	27	28	25	26
+	16	1000uA	10kHz	x30	Null	Null	8	9	27	28	24	25
+end												
+projection30												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	Null	Null	7	Null	26	27	23	Null
+	2	1000uA	10kHz	x30	Null	Null	6	7	26	27	22	23
+	3	1000uA	10kHz	x30	Null	Null	5	6	26	27	21	22
+	4	1000uA	10kHz	x30	Null	Null	4	5	26	27	20	21
+	5	1000uA	10kHz	x30	Null	Null	3	4	26	27	19	20
+	6	1000uA	10kHz	x30	Null	Null	2	3	26	27	18	19
+	7	1000uA	10kHz	x30	Null	Null	1	2	26	27	17	18
+	8	1000uA	10kHz	x30	Null	Null	0	1	26	27	16	17
+	9	1000uA	10kHz	x30	Null	Null	15	0	26	27	31	16
+	10	1000uA	10kHz	x30	Null	Null	14	15	26	27	30	31
+	11	1000uA	10kHz	x30	Null	Null	13	14	26	27	29	30
+	12	1000uA	10kHz	x30	Null	Null	12	13	26	27	28	29
+	13	1000uA	10kHz	x30	Null	Null	11	12	26	27	27	28
+	14	1000uA	10kHz	x30	Null	Null	10	11	26	27	26	27
+	15	1000uA	10kHz	x30	Null	Null	9	10	26	27	25	26
+	16	1000uA	10kHz	x30	Null	Null	8	9	26	27	24	25
+end												
+projection31												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	Null	Null	7	Null	25	26	23	Null
+	2	1000uA	10kHz	x30	Null	Null	6	7	25	26	22	23
+	3	1000uA	10kHz	x30	Null	Null	5	6	25	26	21	22
+	4	1000uA	10kHz	x30	Null	Null	4	5	25	26	20	21
+	5	1000uA	10kHz	x30	Null	Null	3	4	25	26	19	20
+	6	1000uA	10kHz	x30	Null	Null	2	3	25	26	18	19
+	7	1000uA	10kHz	x30	Null	Null	1	2	25	26	17	18
+	8	1000uA	10kHz	x30	Null	Null	0	1	25	26	16	17
+	9	1000uA	10kHz	x30	Null	Null	15	0	25	26	31	16
+	10	1000uA	10kHz	x30	Null	Null	14	15	25	26	30	31
+	11	1000uA	10kHz	x30	Null	Null	13	14	25	26	29	30
+	12	1000uA	10kHz	x30	Null	Null	12	13	25	26	28	29
+	13	1000uA	10kHz	x30	Null	Null	11	12	25	26	27	28
+	14	1000uA	10kHz	x30	Null	Null	10	11	25	26	26	27
+	15	1000uA	10kHz	x30	Null	Null	9	10	25	26	25	26
+	16	1000uA	10kHz	x30	Null	Null	8	9	25	26	24	25
+end												
+projection32												
+%	Measurment	Amp	Freq	Gain	Src1_IMM1	Sink1_IMM2	VM+1	VM-1	Src2_IMM3	Sink2_IMM4	VM+2	VM-2
+	1	1000uA	10kHz	x30	Null	Null	7	Null	24	25	23	Null
+	2	1000uA	10kHz	x30	Null	Null	6	7	24	25	22	23
+	3	1000uA	10kHz	x30	Null	Null	5	6	24	25	21	22
+	4	1000uA	10kHz	x30	Null	Null	4	5	24	25	20	21
+	5	1000uA	10kHz	x30	Null	Null	3	4	24	25	19	20
+	6	1000uA	10kHz	x30	Null	Null	2	3	24	25	18	19
+	7	1000uA	10kHz	x30	Null	Null	1	2	24	25	17	18
+	8	1000uA	10kHz	x30	Null	Null	0	1	24	25	16	17
+	9	1000uA	10kHz	x30	Null	Null	15	0	24	25	31	16
+	10	1000uA	10kHz	x30	Null	Null	14	15	24	25	30	31
+	11	1000uA	10kHz	x30	Null	Null	13	14	24	25	29	30
+	12	1000uA	10kHz	x30	Null	Null	12	13	24	25	28	29
+	13	1000uA	10kHz	x30	Null	Null	11	12	24	25	27	28
+	14	1000uA	10kHz	x30	Null	Null	10	11	24	25	26	27
+	15	1000uA	10kHz	x30	Null	Null	9	10	24	25	25	26
+	16	1000uA	10kHz	x30	Null	Null	8	9	24	25	24	25
+end												

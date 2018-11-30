@@ -1,0 +1,4 @@
+Average1 2
+Freq1 10KHz
+Amp1 1000uA
+VM_Digit1 25

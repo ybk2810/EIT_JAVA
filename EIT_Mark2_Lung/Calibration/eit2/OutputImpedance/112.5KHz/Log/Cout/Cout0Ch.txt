@@ -1,0 +1,29 @@
+	None0	
+CoarseR0	-1.33824e-010	
+CoarseR200	0	
+MinCout:	0	CoarseR:	200	None:	0
+
+	None0	
+CoarseR190	0	
+CoarseR191	-7.61767e-011	
+CoarseR192	0	
+CoarseR193	6.64629e-011	
+CoarseR194	6.64629e-011	
+CoarseR195	0	
+CoarseR196	0	
+CoarseR197	0	
+CoarseR198	0	
+CoarseR199	0	
+CoarseR200	0	
+CoarseR201	0	
+CoarseR202	0	
+CoarseR203	-7.61767e-011	
+CoarseR204	0	
+CoarseR205	-7.61767e-011	
+CoarseR206	-8.78096e-011	
+CoarseR207	0	
+CoarseR208	0	
+CoarseR209	0	
+CoarseR210	0	
+MinCout:	0	CoarseR:	190	None:	0
+

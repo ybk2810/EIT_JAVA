@@ -1,0 +1,29 @@
+	None0	
+CoarseR0	14800	
+CoarseR200	1e+009	
+MaxRout:	1e+009	CoarseR:	200	None:	0
+
+	None0	
+CoarseR190	1e+009	
+CoarseR191	14444.4	
+CoarseR192	1e+009	
+CoarseR193	14900	
+CoarseR194	14900	
+CoarseR195	1e+009	
+CoarseR196	1e+009	
+CoarseR197	1e+009	
+CoarseR198	1e+009	
+CoarseR199	1e+009	
+CoarseR200	1e+009	
+CoarseR201	1e+009	
+CoarseR202	1e+009	
+CoarseR203	14444.4	
+CoarseR204	1e+009	
+CoarseR205	14444.4	
+CoarseR206	18125	
+CoarseR207	1e+009	
+CoarseR208	1e+009	
+CoarseR209	1e+009	
+CoarseR210	1e+009	
+MaxRout:	1e+009	CoarseR:	190	None:	0
+

@@ -1,0 +1,53 @@
+	None0	
+CoarseR0	13553.7	
+CoarseR10	15105.6	
+CoarseR20	16810.4	
+CoarseR30	18798.3	
+CoarseR40	21130.1	
+CoarseR50	23830.4	
+CoarseR60	26865.1	
+CoarseR70	30177.5	
+CoarseR80	34055.3	
+CoarseR90	38201.2	
+CoarseR100	41247.7	
+CoarseR110	43307.9	
+CoarseR120	44800.8	
+CoarseR130	43601	
+CoarseR140	41996.8	
+CoarseR150	39843.1	
+CoarseR160	36993.7	
+CoarseR170	34334.3	
+CoarseR180	31950.2	
+CoarseR190	29831.7	
+CoarseR200	27994.4	
+CoarseR210	26213.4	
+CoarseR220	24883.6	
+CoarseR230	23479.2	
+CoarseR240	22194.2	
+CoarseR250	21327.9	
+MaxZout:	44800.8	CoarseR:	120	None:	0
+
+	None0	
+CoarseR100	41587.8	
+CoarseR101	41387.5	
+CoarseR102	41856.1	
+CoarseR103	41978.6	
+CoarseR104	42516.1	
+CoarseR105	42612.9	
+CoarseR106	42697.7	
+CoarseR107	43137.2	
+CoarseR108	43198.9	
+CoarseR109	43667.2	
+CoarseR110	43696.7	
+CoarseR111	43712	
+CoarseR112	43704.3	
+CoarseR113	44088.6	
+CoarseR114	44465.6	
+CoarseR115	44423.1	
+CoarseR116	44345.1	
+CoarseR117	44293.5	
+CoarseR118	44613.3	
+CoarseR119	44509.9	
+CoarseR120	44800.8	
+MaxZout:	44800.8	CoarseR:	120	None:	0
+

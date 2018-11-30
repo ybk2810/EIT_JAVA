@@ -1,0 +1,53 @@
+	None0	
+CoarseR0	1e+009	
+CoarseR10	1e+009	
+CoarseR20	1e+009	
+CoarseR30	1e+009	
+CoarseR40	1e+009	
+CoarseR50	5000	
+CoarseR60	1e+009	
+CoarseR70	1000	
+CoarseR80	2000	
+CoarseR90	2000	
+CoarseR100	1e+009	
+CoarseR110	1e+009	
+CoarseR120	1e+009	
+CoarseR130	1e+009	
+CoarseR140	1e+009	
+CoarseR150	1e+009	
+CoarseR160	1e+009	
+CoarseR170	1e+009	
+CoarseR180	1e+009	
+CoarseR190	1e+009	
+CoarseR200	1e+009	
+CoarseR210	1e+009	
+CoarseR220	1e+009	
+CoarseR230	1e+009	
+CoarseR240	1e+009	
+CoarseR250	1e+009	
+MaxRout:	1e+009	CoarseR:	0	None:	0
+
+	None0	
+CoarseR0	1e+009	
+CoarseR1	1e+009	
+CoarseR2	1e+009	
+CoarseR3	1e+009	
+CoarseR4	2500	
+CoarseR5	1e+009	
+CoarseR6	1e+009	
+CoarseR7	1e+009	
+CoarseR8	2000	
+CoarseR9	3333.33	
+CoarseR10	1111.11	
+CoarseR11	3333.33	
+CoarseR12	3333.33	
+CoarseR13	3333.33	
+CoarseR14	3333.33	
+CoarseR15	1e+009	
+CoarseR16	1e+009	
+CoarseR17	3000	
+CoarseR18	1e+009	
+CoarseR19	1e+009	
+CoarseR20	1e+009	
+MaxRout:	1e+009	CoarseR:	0	None:	0
+

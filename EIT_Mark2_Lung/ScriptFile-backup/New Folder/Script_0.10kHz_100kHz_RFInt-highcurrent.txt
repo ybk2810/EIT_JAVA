@@ -1,0 +1,57 @@
+%Date	10/22/2010
+%Comment :
+#include "projection\projection_0.10kHz_100kHz_RFint-highcurrent.txt"
+
+start
+	setting
+		Channel		16
+		Average		16
+		Delay		5
+		Freq		1
+		TimeInfoHigh	0
+		TimeInfoMid	4
+		TimeInfoLow	0
+		InjDelayHigh	0
+		InjDelayLow	60
+	stop
+	calibration
+		DCOffset	ON
+		OutputImpedance	ON
+		Amplitude	OFF
+		Voltmeter	OFF
+		Protocol	2DNeighboring_saline
+	stop
+	scan
+		projection1
+		projection2
+		projection3
+		projection4
+		projection5
+		projection6
+		projection7
+		projection8
+		projection9
+		projection10
+		projection11
+		projection12
+		projection13
+		projection14
+		projection15
+		projection16
+		projection17
+		projection18
+		projection19
+		projection20
+		projection21
+		projection22
+		projection23
+		projection24
+		projection25
+		projection26
+		projection27
+		projection28
+		projection29
+		projection30
+	stop
+end
+		

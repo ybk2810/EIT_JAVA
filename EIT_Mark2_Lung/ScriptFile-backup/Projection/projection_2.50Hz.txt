@@ -1,0 +1,628 @@
+projection1
+%	Ch	Amp	Freq	Gain
+	1	600uA	50Hz	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	-600uA	50Hz	x60
+end
+projection2				
+%	Ch	Amp	Freq	Gain
+	1	-600uA	50Hz	x60
+	2	600uA	50Hz	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end
+projection3
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	-600uA	50Hz	x60
+	3	600uA	50Hz	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null    Null	x60
+end
+projection4
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	-600uA	50Hz	x60
+	4	600uA	50Hz	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end
+projection5
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	-600uA	50Hz	x60
+	5	600uA	50Hz	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end
+projection6
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	-600uA	50Hz	x60
+	6	600uA	50Hz	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end
+projection7
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	-600uA	50Hz	x60
+	7	600uA	50Hz	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end
+projection8
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	-600uA	50Hz	x60
+	8	600uA	50Hz	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end
+projection9
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	-600uA	50Hz	x60
+	9	600uA	50Hz	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end
+projection10
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	-600uA	50Hz	x60
+	10	600uA	50Hz	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end
+projection11
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	-600uA	50Hz	x60
+	11	600uA	50Hz	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end
+projection12
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	-600uA	50Hz	x60
+	12	600uA	50Hz	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end
+projection13
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	-600uA	50Hz	x60
+	13	600uA	50Hz	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end
+projection14
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	-600uA	50Hz	x60
+	14	600uA	50Hz	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end
+projection15
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	-600uA	50Hz	x60
+	15	600uA	50Hz	x60
+	16	Null	Null	x60
+end
+projection16
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	-600uA	50Hz	x60
+	16	600uA	50Hz	x60
+end
+projection17				
+%	Ch	Amp	Freq	Gain
+	1	600uA	50Hz	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	-600uA	50Hz	x60
+end				
+projection18				
+%	Ch	Amp	Freq	Gain
+	1	-600uA	50Hz	x60
+	2	600uA	50Hz	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end				
+projection19				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	-600uA	50Hz	x60
+	3	600uA	50Hz	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null    Null	x60	
+end				
+projection20				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	-600uA	50Hz	x60
+	4	600uA	50Hz	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end				
+projection21				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	-600uA	50Hz	x60
+	5	600uA	50Hz	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end				
+projection22				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	-600uA	50Hz	x60
+	6	600uA	50Hz	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end				
+projection23				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	-600uA	50Hz	x60
+	7	600uA	50Hz	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end				
+projection24				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	-600uA	50Hz	x60
+	8	600uA	50Hz	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end				
+projection25				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	-600uA	50Hz	x60
+	9	600uA	50Hz	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end				
+projection26				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	-600uA	50Hz	x60
+	10	600uA	50Hz	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end				
+projection27				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	-600uA	50Hz	x60
+	11	600uA	50Hz	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end				
+projection28				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	-600uA	50Hz	x60
+	12	600uA	50Hz	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end				
+projection29				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	-600uA	50Hz	x60
+	13	600uA	50Hz	x60
+	14	Null	Null	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end				
+projection30				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	-600uA	50Hz	x60
+	14	600uA	50Hz	x60
+	15	Null	Null	x60
+	16	Null	Null	x60
+end				
+projection31				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	-600uA	50Hz	x60
+	15	600uA	50Hz	x60
+	16	Null	Null	x60
+end				
+projection32				
+%	Ch	Amp	Freq	Gain
+	1	Null	Null	x60
+	2	Null	Null	x60
+	3	Null	Null	x60
+	4	Null	Null	x60
+	5	Null	Null	x60
+	6	Null	Null	x60
+	7	Null	Null	x60
+	8	Null	Null	x60
+	9	Null	Null	x60
+	10	Null	Null	x60
+	11	Null	Null	x60
+	12	Null	Null	x60
+	13	Null	Null	x60
+	14	Null	Null	x60
+	15	-600uA	50Hz	x60
+	16	600uA	50Hz	x60
+end	
+projection33				
+%	Ch	Amp	Freq	Gain
+	1	0mA 	50Hz	x60
+	2	11600uA 	50Hz	x60
+	3	212mA 	50Hz	x60
+	4	277mA 	50Hz	x60
+	5	600uA 	50Hz	x60
+	6	277mA 	50Hz	x60
+	7	212mA 	50Hz	x60
+	8	11600uA 	50Hz	x60
+	9	0mA 	50Hz	x60
+	10	-11600uA 	50Hz	x60
+	11	-212mA 	50Hz	x60
+	12	-277mA 	50Hz	x60
+	13	-600uA 	50Hz	x60
+	14	-277mA 	50Hz	x60
+	15	-212mA 	50Hz	x60
+	16	-11600uA 	50Hz	x60
+end					
+	
